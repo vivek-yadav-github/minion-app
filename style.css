@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(54, 57, 69);
+  font-family: "Open Sans", sans-serif;
+  background-image: url("https://wallpapercave.com/wp/9DHXtKW.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  background-color: #ffe652;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+
+#output {
+  max-width: 60%;
+  height: 50%;
+  border: 2px solid black;
+  margin: auto;
+  background-color: white;
+  display: block;
+  padding: 2rem;
+}
+#btnrewrite {
+  width: 20%;
+  height: 4vh;
+  background-color: #a9947b;
+  border-radius: 0.3rem;
+}
+#btnrewrite:hover {
+  color: #e96957;
+}
+.entry {
+  color: #e96957;
+}
+#mid {
+  color: #be5e76;
+}
+#middle {
+  color: #f5ebe6;
+}
+#down {
+  color: #f5fafc;
+}
